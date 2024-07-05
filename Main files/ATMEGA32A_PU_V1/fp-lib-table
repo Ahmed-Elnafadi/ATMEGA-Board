@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name footprint_images)(type KiCad)(uri "E:/Mechatronics/Projects/ATmega 32 development board/Atmega32 V1/Images about board/footprint_images.pretty")(options "")(descr ""))
+)
